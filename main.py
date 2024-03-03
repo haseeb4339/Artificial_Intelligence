@@ -8,3 +8,8 @@ for i in range(0,11):
 
     else:
         print('odd number')
+
+
+list = list(range(100)):
+print(list)
+print(list[-1])
